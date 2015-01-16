@@ -13,6 +13,7 @@ Build/
 Intermediate/
 Saved/
 /DetectiveGame.sdf
+/DetectiveGame.opensdf
 
 # Windows Installer files
 *.cab
