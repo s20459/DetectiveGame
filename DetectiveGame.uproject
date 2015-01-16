@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.6",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DetectiveGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GitSourceControl",
+			"Enabled": true
+		}
+	]
+}
